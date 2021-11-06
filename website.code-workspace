@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../stolenpromises.github.io"
+		}
+	],
+	"remoteAuthority": "wsl+debian",
+	"settings": {}
+}
