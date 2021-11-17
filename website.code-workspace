@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "../stolenpromises.github.io"
+		},
+		{
+			"name": "editorial-jekyll-theme",
+			"path": "../editorial-jekyll-theme"
 		}
 	],
 	"remoteAuthority": "wsl+debian",
