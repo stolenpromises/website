@@ -7,15 +7,15 @@
 			"path": "../stolenpromises.github.io"
 		},
 		{
-			"name": "editorial-jekyll-theme",
-			"path": "../editorial-jekyll-theme"
-		},
-		{
 			"name": "jekyll-cv",
 			"path": "../jekyll-cv"
 		},
 		{
 			"path": "../alex_portfolio"
+		},
+		{
+			"name": "website_jekyll",
+			"path": "../website_jekyll"
 		}
 	],
 	"remoteAuthority": "wsl+debian",
